@@ -1,5 +1,5 @@
 # Includes Chromium + system deps for Playwright browser workers
-FROM mcr.microsoft.com/playwright/python:v1.47.0-jammy
+FROM mcr.microsoft.com/playwright/python:v1.63.0-jammy
 WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
