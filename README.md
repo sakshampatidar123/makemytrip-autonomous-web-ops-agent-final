@@ -6,7 +6,7 @@ pricing, campaign pages, partner updates, travel demand signals) into auditable 
 **task intake → agent planning → (plan approval) → controlled browser execution → structured
 extraction → snapshot comparison → reasoning loop → completion (summary, alerts, export, review)**
 
-> **Deployed application:** `https://<your-deployment-url>` (add after deploying; see *Deploy*)
+> **Deployed application:** [Open Live Application](https://mmt-web-ops-agent-d1he.onrender.com/)
 > **Interactive demo (no backend needed):** open `frontend/index.html` directly; it detects that no
 > API is reachable and runs the same pipeline in the browser against bundled sample sources.
 > **Demonstration video:** `<Google Drive link, "Anyone with the link can view">`
@@ -175,16 +175,3 @@ tests/          extraction_tests/, edge_cases/, functional_tests/, browser_tests
 deployment/     docker/Dockerfile, vercel_notes.md, environment_setup.md
 ```
 
-## Team contribution
-
-| Area | Owner | Scope |
-|---|---|---|
-| Product & demo | _name_ | Workflows, success criteria, demo script |
-| Frontend | _name_ | Operations console |
-| Backend & API | _name_ | Job APIs, orchestrator, data model |
-| AI workflow | _name_ | Planner, reasoning loop, completion |
-| Browser automation | _name_ | Worker, policy engine |
-| Data extraction | _name_ | Schemas, normalizers, validators |
-| QA | _name_ | Test suite, edge cases |
-| Security & compliance | _name_ | Allowlist, RBAC, source governance |
-| Documentation & deployment | _name_ | README, docs, Docker/Render |
