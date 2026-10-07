@@ -174,4 +174,15 @@ docs/           architecture, api_reference, browser_policy, demonstration_flow,
 tests/          extraction_tests/, edge_cases/, functional_tests/, browser_tests/
 deployment/     docker/Dockerfile, vercel_notes.md, environment_setup.md
 ```
+## Team contribution
 
+| Area | Owner | Scope |
+|---|---|---|
+| Product understanding | Shruti Tiwari | Introduction and product understanding |
+| Frontend | Rahil | Operations console and demo websites |
+| Core pipeline & orchestration | Om Bamhane | Workflow orchestration, completion, reasoning loop, and extraction pipeline coordination |
+| Planning & browser automation | Onkar | Workflow planning, browser execution, and live workflow support |
+| Backend & API | Pankaj | Backend APIs, database models, configuration, authentication policy, and LLM service |
+| Testing & quality | Saksham Patidar | Test suite, test configuration, quality checks, and repository support |
+| Deployment & documentation | Prashant | Deployment configuration, Docker/Render setup, documentation, data, and project security |
+| Data extraction | Shruti Tiwari | Extraction logic and related extraction components |
