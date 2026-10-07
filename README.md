@@ -7,7 +7,7 @@ pricing, campaign pages, partner updates, travel demand signals) into auditable 
 extraction → snapshot comparison → reasoning loop → completion (summary, alerts, export, review)**
 
 > **Deployed application:** [Open Live Application](https://mmt-web-ops-agent-d1he.onrender.com/)
-> **GitHub repository:** 
+> **GitHub repository:** [View Source Code](https://github.com/sakshampatidar123/makemytrip-autonomous-web-ops-agent-final) 
 > **Interactive demo (no backend needed):** open `frontend/index.html` directly; it detects that no
 > API is reachable and runs the same pipeline in the browser against bundled sample sources.
 > **Demonstration video:** [Watch Demo Video](https://drive.google.com/file/d/1tbf--Oh2WAPZ9caF4XDt0Cd1atWnWBLS/view?usp=sharing)
