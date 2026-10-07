@@ -7,6 +7,7 @@ pricing, campaign pages, partner updates, travel demand signals) into auditable 
 extraction → snapshot comparison → reasoning loop → completion (summary, alerts, export, review)**
 
 > **Deployed application:** [Open Live Application](https://mmt-web-ops-agent-d1he.onrender.com/)
+> **GitHub repository:** 
 > **Interactive demo (no backend needed):** open `frontend/index.html` directly; it detects that no
 > API is reachable and runs the same pipeline in the browser against bundled sample sources.
 > **Demonstration video:** `<Google Drive link, "Anyone with the link can view">`
